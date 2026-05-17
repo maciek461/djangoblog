@@ -1,0 +1,49 @@
+.page-header {
+    background-color: #C25100;
+    margin-top: 5px;
+    padding: 10px 50px 0px 0px;
+    color: #C25100;
+    font-family: 'Inter', sans-serif;
+    text-decoration: none;
+    width:70%;
+    border-style: hidden;
+}
+
+.text-justify{
+margin-right: 55px;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #ffffff;
+
+}
+.post {
+    margin-bottom: 15px;
+    padding: 10px 10px 10px 1px;
+}
+
+.post h2 a, .post h1 a:visited {
+    color: #061A40;
+}
+
+h1, h2, h3, h4{
+font-family: 'lato', cursive;
+}
+
+h2{
+    font-family: 'Inter', sans-serif;
+    color: black;
+}
+
+
+
+.stopka{
+    margin-top: 35px;
+    width: 100%;
+    padding: 10px;
+    background-color: #061A40;
+    color: #ffffff;
+}
+
+
+
